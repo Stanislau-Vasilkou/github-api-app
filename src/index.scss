@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.ant-layout {
+  height: 100%;
+  background-color: #ffffff;
+}
