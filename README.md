@@ -1,6 +1,6 @@
 **Basic application for the interactions with GitHub API**
 
-[demo-page](https://main.d22hhv8zz18d0d.amplifyapp.com/)
+[demo-page](https://master.dxd8fuubne5xr.amplifyapp.com/)
 
 In the project directory, you can run:
 
